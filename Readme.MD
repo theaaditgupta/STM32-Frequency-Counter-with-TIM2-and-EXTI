@@ -1,14 +1,4 @@
-Coordinated weddings, conferences, and private events from planning through execution, ensuring seamless delivery and high client satisfaction.
-
-Served as the primary client liaison, translating client requirements into actionable event plans and resolving concerns promptly to maintain service quality.
-
-Organized room layouts, décor, audiovisual requirements, and vendor logistics, ensuring smooth event flow and on-time setups.
-
-Led and supported banquet and culinary teams during live events, aligning staffing and resources to deliver consistent, high-quality service.
-
-Managed event timelines, last-minute changes, and on-site problem solving, minimizing disruptions and ensuring successful outcomes.
-
-Ensured full compliance with hotel standards, health, and safety regulaSTM32 Signal Frequency Measurement
+STM32 Signal Frequency Measurement
 
 This project implements a signal frequency and period measurement system on an STM32F051 microcontroller using external interrupts and Timer 2.
 
